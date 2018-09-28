@@ -1,7 +1,14 @@
 # NMT-IndianLanguages
 Neural Machine Translaion using OpenNMT-tf for Indian languages
 
-Available toolkits: OpenNMT and xNMT
-
-Proposed model discrption
-seq2seq model 
+Experiment 1
+  OpenNMT-tf toolkit
+  NMTSmall model 
+  Sequence to sequence encoder decoder architecture
+  HYperparameters
+    Learning Rate
+    Decay
+    Drop Out
+    Beam Width
+    
+    
